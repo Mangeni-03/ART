@@ -1,0 +1,23 @@
+{
+  "name": "art",
+  "version": "1.0.0",
+  "description": "Building an art platform using Html and bootstrap",
+  "homepage": "https://github.com/Mangeni-03/ART#readme",
+  "bugs": {
+    "url": "https://github.com/Mangeni-03/ART/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangeni-03/ART.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
